@@ -1,0 +1,119 @@
+ul {
+    display: flex;
+
+}
+
+li {
+    list-style: none;
+}
+
+li a {
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: 3px 40px;
+    text-align: center;
+   
+
+}
+
+nav {
+    overflow: hidden;
+    background-color: #333;
+    float: right;
+
+}
+
+h1 {
+    padding: 100px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 300px;
+}
+nav li a:hover{
+    color: rgb(216, 208, 208);
+}
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+
+form input {
+    margin: 15px;
+    width: 30% ;
+    height: 30px;
+}
+
+form textarea {
+    margin: 15px;
+    width: 30%;
+    
+}
+
+button {
+    margin: 15px;
+    width: 10%;
+
+
+}
+ul {
+    display: flex;
+
+}
+
+li {
+    list-style: none;
+}
+
+h1{
+    padding: 100px;
+    text-align: center;
+}
+h4{
+    margin: 15px;
+   padding: 1px;
+}
+h1{
+    padding: 100px;
+    text-align: center;
+}
+img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 300px;
+}
+
+h1 {
+    padding: 70px;
+    text-align: center;
+}
+
+section {
+
+    text-align: center;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-collapse: collapse;
+}
+
+td,
+th {
+    border: 1px solid #dddddd;
+    
+    padding: 15px;
+}
+
+tr:nth-child(even) {
+    background-color: #7c7777;
+}
